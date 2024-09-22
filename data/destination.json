@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "name": "Tropical Paradise Resort",
+        "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Escape to the ultimate tropical paradise retreat with your loved ones",
+        "ratings": "4.8",
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+    },
+    {
+        "id": "2",
+        "name": "Alpine Chalet Retreat",
+        "image": "https://images.unsplash.com/photo-1480497490787-505ec076689f?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Experience the breathtaking beauty of the Alps from your",
+        "ratings": "4.5",
+        "price": "120",
+        "duration": "4",
+        "location": "Switzerland",
+        "category": "Mountains"
+    },
+    {
+        "id": "3",
+        "name": "Urban Explorers Dream",
+        "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=1544&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Immerse yourself in the vibrant energy of the city with your loved ones",
+        "ratings": "4.7",
+        "price": "140",
+        "duration": "2",
+        "location": "USA",
+        "category": "Cities"
+    },
+    {
+        "id": "4",
+        "name": "Enchanted Forest Retreat",
+        "image": "https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Find serenity in the heart of nature",
+        "ratings": "4.9",
+        "price": "180",
+        "duration": "5",
+        "location": "USA",
+        "category": "Forests"
+    },
+    {
+        "id": "5",
+        "name": "Tranquil Lakeside Haven",
+        "image": "https://images.unsplash.com/photo-1439066290691-510066268af5?q=80&w=1373&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Relax and rejuvenate by the tranquil lakeside",
+        "ratings": "4.9",
+        "price": "1200",
+        "duration": "3",
+        "location": "England",
+        "category": "Lakes"
+    },
+    {
+        "id": "6",
+        "name": "Tropical Paradise Resort",
+        "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Escape to the ultimate tropical paradise retreat with your loved ones",
+        "ratings": "4.8",
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+    },
+    {
+        "id": "7",
+        "name": "Sandy Shores Beach Resort",
+        "image": "https://images.unsplash.com/photo-1480497490787-505ec076689f?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Escape to the ultimate tropical paradise retreat with your loved ones",
+        "ratings": "4.8",
+        "price": "100",
+        "duration": "7",
+        "location": "Canada",
+        "category": "Mountain"
+    },
+    {
+        "id": "8",
+        "name": "Metropolitan Marvels",
+        "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=1544&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Discover the cultural richness of Japan",
+        "ratings": "4.6",
+        "price": "170",
+        "duration": "3",
+        "location": "Japan",
+        "category": "Cities"
+    },
+    {
+        "id": "9",
+        "name": "Mystical Forest Sanctuary",
+        "image": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Escape to the ultimate tropical paradise retreat with your loved ones",
+        "ratings": "4.8",
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+    }
+]
